@@ -1,0 +1,1 @@
+This tool is used to help kernel development provides a cross-platform GUI to help developer to debug their system. This tool allows user to emulates user touch, power control(earlysuspend, deep sleep, wake up) and shows GPIO/Pinmux table. 
